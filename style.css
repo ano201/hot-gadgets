@@ -1,0 +1,53 @@
+header{
+  background: url("images/bg-2.png") no-repeat;
+  background-size: 100px 100px;
+  background-position: left bottom;
+  padding: 20px;
+}
+.nav-link{
+ color: black;
+}
+.carousel{
+ margin-top: -100px;
+}
+.carousel-item{
+ background: url("images/bg-1.png") no-repeat center;
+ background-size: contain;
+}
+.buy-now-button{
+ background-color: black;
+ border-radius: 10px;
+ color: white;
+ padding: 7px 20px;
+ cursor: pointer;
+}
+.orange-text{
+ color: orange;
+}
+.container{
+ margin-bottom: 100px;
+}
+.card{
+ border: none;
+ box-shadow: 0px 8px 10px lightgray, -10px 8px 15px lightgray, 10px 8px 15px lightgray;
+}
+.card-body{
+ text-align: center;
+}
+.underline{
+ width: 15%;
+ height: 15px;
+ border-radius: 10px;
+ background-color: orange;
+ margin: auto;
+ margin-bottom: 100px;
+}
+.categories h2{
+ text-align: center;
+}
+.card-single{
+ margin: auto;
+}
+.footer{
+ text-align: center;
+}
